@@ -1,6 +1,6 @@
 #connections l or s
 connection;l
-store_name;Almacenes Hunter
+store_name;Hotel Canaima
 host;216.246.47.153
 database;xnqgwfdq_storeHunter
 user;xnqgwfdq_SHunter
