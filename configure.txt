@@ -1,8 +1,8 @@
 #connections l or s
-connection;s
+connection;l
 store_name;Hotel Canaima
 host;216.246.47.153
-database;xnqgwfdq_storeHunter
-user;xnqgwfdq_SHunter
-password;IHx4Uv!8spMB
+database;xnqgwfdq_hotelcanaima
+user;xnqgwfdq_ucanaima
+password;N7wYOJhxd*M#
 port;3306
