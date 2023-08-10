@@ -600,7 +600,7 @@ with st.sidebar:
     elif selected == 'Dashboard':
         user_password=st.text_input('Clave de acceso',type="password")
         
-        if user_password.lower() == 'almacenesx':
+        if user_password.lower() == 'farestony':
             dashboard()
 
 
