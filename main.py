@@ -165,7 +165,7 @@ def convert_dataframeTotuples(df):
 def dashboard():
     
     ########
-    option1=con1.selectbox('Seleccione el tipo de dashboard', ['Elegir','Producto','Cierre'], index=0) 
+    option1=con1.selectbox('Seleccione el tipo de dashboard', ['Cierre'], index=0) 
     
     if option1.lower() == 'producto':
         print('primera opcion')
