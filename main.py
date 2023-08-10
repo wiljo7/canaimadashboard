@@ -8,6 +8,9 @@ import datetime
 
 # ocultar el pie de made with streamlit 
 
+st.set_page_config(page_title="HotelCanaima")
+
+
 hide_streamlit_style = """
             <style>
             #MainMenu {visibility: hidden;}
